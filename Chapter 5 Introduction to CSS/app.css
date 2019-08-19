@@ -1,0 +1,24 @@
+h1{
+	color: #0000FF;
+	border-color: blue;
+	border-width: 2px;
+	border-style: solid;
+}
+
+li{
+	color: rgba(100, 0, 100, 0.5);
+}
+
+h4{
+	color: pink;
+	background: rgb(155, 13, 84);
+}
+h4{
+	
+}
+
+body{
+	background: url(http://scontent.cdninstagram.com/t51.2885-15/e35/p480x480/13392797_232903077095486_1901270802_n.jpg?ig_cache_key=MTI3MjIyNzU2MDEwNjk1MDc5MQ%3D%3D.2);
+	background-repeat: no-repeat;
+	/*background-size: cover;*/
+}
