@@ -1,7 +1,7 @@
 # Web-Developement-Learn
 
-⋅⋅* Make REAL web applications using cutting-edge technologies
-⋅⋅* Continue to learn and grow as a developer, long after the course ends
+* Make REAL web applications using cutting-edge technologies
+* Continue to learn and grow as a developer, long after the course ends
 Create a blog application from scratch using Express, MongoDB, and Semantic UI
 Create a complicated yelp-like application from scratch
 Write your own browser-based game
